@@ -9,9 +9,6 @@ To view my project
 admin:tom@gmail.com
 pass:123456
 
-user:sifa@gmail.com
-pass:123456
-
 Features
 
 Home page will show top six data with highest like count. Without login no one can view details page.
