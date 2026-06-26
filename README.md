@@ -4,6 +4,14 @@ Project Overview: This is project where user can add,update and also delete thei
 
 Live URL: https://charming-cocada-a91fb8.netlify.app/
 
+To view my project 
+
+admin:tom@gmail.com
+pass:123456
+
+user:sifa@gmail.com
+pass:123456
+
 Features
 
 Home page will show top six data with highest like count. Without login no one can view details page.
